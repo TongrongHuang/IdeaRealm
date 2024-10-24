@@ -1,8 +1,8 @@
 
 <div align="center">
     <img src="./images/logo-1.png" width="200" height="200">
-    <!-- <div>&nbsp;</div> -->
-    <b><font size="10" >筑意绘界 IdeaRealm</font></b>
+    <div>&nbsp;</div>
+    <h1>筑意绘界 IdeaRealm</h1>
 </div>
 
 ## 简介
