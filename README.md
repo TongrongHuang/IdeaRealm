@@ -2,7 +2,7 @@
 <div align="center">
     <img src="./images/logo-1.png" width="200" height="200">
     <!-- <div>&nbsp;</div> -->
-    <div style="height: 10px;"></div>
+    <div style="height: 5px;"></div>
     <h1>筑意绘界 IdeaRealm</h1>
 </div>
 
