@@ -1,6 +1,12 @@
-# 基于 InternLM 的 室内设计 项目
 
-筑意绘界(IdeaRealm)
+<div align="center">
+    <img src="./images/logo-1.png" width="200" height="200">
+    <div>&nbsp;</div>
+    <b><font size="5">筑意绘界 IdeaRealm</font></b>
+</div>
+
+## 简介
+筑意绘界(IdeaRealm)是一个基于 InternLM 的室内设计项目
 
 “Idea”代表创意和想法，“Realm”则代表一个独特的领域或世界。这个名字简短而有力，直接传达了项目的核心理念，即通过创意构建独特的室内世界。
 
