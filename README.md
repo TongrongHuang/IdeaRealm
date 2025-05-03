@@ -11,7 +11,7 @@
 “Idea”代表创意和想法，“Realm”则代表一个独特的领域或世界。
 
 ## 项目架构图
-![Architecture diagram](./images/Architecture-diagram.Png)
+![Architecture diagram](./images/Architecture-diagram.png)
 
 ## 项目安装说明
 ### 1、安装相关依赖
